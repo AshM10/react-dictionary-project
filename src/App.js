@@ -13,7 +13,24 @@ function App() {
           <Dictionary />
         </main>
         <footer className="App-footer">
-          <small>Coded by Ash Moreno</small>
+          <small>
+            This project was coded by{" "}
+            <a
+              href="https://www.linkedin.com/in/asthermoreno10/"
+              target="_blank"
+              rel="norefferer"
+            >
+              Ash Moreno
+            </a>
+            , and is {""}
+            <a
+              href="https://github.com/AshM10/react-dictionary-project"
+              target="_blank"
+              rel="norefferer"
+            >
+              open-sourced on Github.
+            </a>
+          </small>
         </footer>
       </div>
     </div>
