@@ -18,7 +18,7 @@ function App() {
             <a
               href="https://www.linkedin.com/in/asthermoreno10/"
               target="_blank"
-              rel="norefferer"
+              rel="noreferrer"
             >
               Ash Moreno
             </a>
@@ -26,7 +26,7 @@ function App() {
             <a
               href="https://github.com/AshM10/react-dictionary-project"
               target="_blank"
-              rel="norefferer"
+              rel="noreferrer"
             >
               open-sourced on Github.
             </a>
