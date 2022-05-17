@@ -8,7 +8,7 @@ function App() {
       <div className="container">
         <div className="content-wrapper">
           <header className="App-header">
-            <img src={logo} className="App-logo img-fluid rounded" alt="logo" />
+            <img src={logo} className="App-logo" alt="logo" />
           </header>
           <main>
             <Dictionary defaultKeyword="donut" />
