@@ -22,4 +22,10 @@
   padding: 10px;
   border-radius: 6px;
   background: #fec2c7;
+  color: #70757a;
+}
+
+.App-footer a {
+  color: #138da5;
+  text-decoration: none;
 }
