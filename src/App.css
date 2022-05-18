@@ -1,12 +1,18 @@
+.App {
+  padding: 60px 0 100px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.App-header {
+  margin: 30px 0;
+}
+
 .App .content-wrapper {
   background: #fff2f6;
   padding: 20px;
   margin: 50px auto;
   border-radius: 30px;
-}
-
-.App-header {
-  margin: 30px 0;
 }
 
 .App-logo {
