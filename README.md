@@ -50,8 +50,15 @@ DICTIONARY_API_KEY=your_api_key
 - It's important to keep in mind that the maintainers of the original repository have the final say on whether or not to merge your changes. They may request that you make additional changes or discuss the changes with you before deciding to merge them.
 
 ## Reporting bugs 🐛
-- Requesting new features
-- Submitting pull requests
+- To report a bug in the dictionary app, you can follow these steps:
+
+1. Identify the problem: First, you need to determine what the issue is and how it is affecting your use of the app. Be specific and include as much detail as possible. For example, "When I search for the word 'apple', the app crashes" or "The app is not displaying any images for any words I search for."
+2. Reproduce the issue: Try to reproduce the problem to confirm that it is a bug and not just a one-time occurrence. This can also help you gather more information about the issue.
+3. Collect information about the bug: In order to help the fix the bug, you will need to provide as much information as possible. This may include the the operating system you are using, any error messages or codes you received, and the steps you took to reproduce the bug. You should also note which API you were using (Pexel or Dictionary) and what word you searched for when the bug occurred.
+4. Create a bug report: There are several ways you can create a bug report, including using a bug tracking tool, creating a document or spreadsheet, or even just writing down the information in a note. Be sure to include all of the information you collected about the bug, as well as any suggestions you have for how the issue could be fixed.
+5. Submit the bug report: Once you have created your bug report, you can submit the report through a bug tracking tool by <a href="mailto:hello@ashmoreno.dev">email</a>.
+
+By following these steps, you can help fix the bug and improve the app for all users.
 
 ## Author 👸🏼
 - Connect with ASTHER MORENO on [LinkedIn](https://www.linkedin.com/in/asthermoreno10/) and [Twitter](https://twitter.com/sexy_gravy)
