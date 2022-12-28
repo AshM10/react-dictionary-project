@@ -29,7 +29,7 @@ DICTIONARY_API_KEY=your_api_key
 
 4. Start the development server by running npm start. The app should open in your default browser.
 
-## Known Issues
+## Known Issues ䷅
 - The app may not display results for all words, as the Dictionary API only covers a limited number of words.
 - The app may not display images for all words, as the Pexel API may not have relevant images for all words.
 
